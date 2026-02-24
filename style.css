@@ -1,0 +1,43 @@
+/* Custom Design Elements */
+body {
+    background: radial-gradient(circle at top, #0f172a, #020617);
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    min-height: 100vh;
+    color: white;
+    margin: 0;
+}
+
+.glass {
+    background: rgba(255, 255, 255, 0.03);
+    backdrop-filter: blur(15px);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.glow-cyan {
+    box-shadow: 0 0 30px rgba(34, 211, 238, 0.1);
+}
+
+/* AI Avatar Animation */
+@keyframes mouthMove {
+    0%, 100% { height: 4px; }
+    50% { height: 12px; }
+}
+
+.animate-mouth {
+    animation: mouthMove 300ms infinite;
+}
+
+/* Scrollbar Styling */
+textarea::-webkit-scrollbar {
+    width: 6px;
+}
+
+textarea::-webkit-scrollbar-thumb {
+    background: rgba(34, 211, 238, 0.2);
+    border-radius: 10px;
+}
+
+/* Transitions */
+.hidden {
+    display: none;
+}

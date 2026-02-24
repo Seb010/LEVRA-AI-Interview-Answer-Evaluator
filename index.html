@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LEVRA AI | Soft Skills Analysis</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="flex items-center justify-center p-4 md:p-8">
+
+    <div class="glass glow-cyan max-w-5xl w-full rounded-[2rem] p-6 md:p-10 space-y-8">
+        
+        <header class="text-center">
+            <div class="flex justify-center mb-4">
+                <div class="w-14 h-14 rounded-full bg-cyan-500/10 flex items-center justify-center gap-1 border border-cyan-500/20">
+                    <div class="w-1 bg-cyan-400 h-4 rounded-full"></div>
+                    <div class="w-1 bg-cyan-400 h-2 rounded-full animate-mouth"></div>
+                    <div class="w-1 bg-cyan-400 h-4 rounded-full"></div>
+                </div>
+            </div>
+            <h1 class="text-4xl font-black text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500 uppercase tracking-tighter">LEVRA AI</h1>
+            <p class="text-slate-500 text-xs font-bold uppercase tracking-widest mt-1">NLP Behavioral Scoring Engine</p>
+        </header>
+
+        <div class="grid lg:grid-cols-2 gap-10">
+            <section class="space-y-6">
+                <div>
+                    <label class="text-slate-400 text-[10px] font-black uppercase tracking-widest block mb-2">Target Competency</label>
+                    <select id="skillSelect" class="w-full bg-slate-900/50 border border-slate-700 text-slate-200 p-4 rounded-2xl outline-none focus:ring-2 focus:ring-cyan-500 transition-all cursor-pointer">
+                        <option value="" disabled selected>Choose a skill to evaluate...</option>
+                        <option value="communication">Communication</option>
+                        <option value="teamwork">Teamwork</option>
+                        <option value="problem_solving">Problem Solving</option>
+                        <option value="adaptability">Adaptability</option>
+                    </select>
+                </div>
+
+                <div id="scenarioBox" class="hidden space-y-6 animate-in fade-in slide-in-from-bottom-2 duration-500">
+                    <div class="p-5 rounded-2xl bg-cyan-500/5 border border-cyan-500/10 italic text-slate-300 text-sm leading-relaxed">
+                        <span class="text-cyan-400 font-bold not-italic text-xs block mb-1">SCENARIO:</span>
+                        <p id="scenarioText"></p>
+                    </div>
+
+                    <textarea id="responseInput" rows="7" 
+                        class="w-full rounded-2xl bg-slate-950/50 border border-slate-800 p-5 text-slate-200 focus:border-cyan-500 outline-none transition-all placeholder:text-slate-700" 
+                        placeholder="Draft your professional response here..."></textarea>
+
+                    <button id="submitBtn" class="w-full py-4 rounded-2xl bg-gradient-to-br from-cyan-500 to-blue-600 font-black uppercase tracking-widest text-sm hover:brightness-125 hover:scale-[1.01] active:scale-95 transition-all">
+                        Analyze Performance
+                    </button>
+                </div>
+            </section>
+
+            <section id="resultsArea" class="hidden space-y-6 animate-in fade-in slide-in-from-right-4 duration-500">
+                <div class="glass rounded-3xl p-8 border-white/5">
+                    <div class="flex justify-between items-end mb-3">
+                        <span class="text-slate-500 text-[10px] font-black uppercase tracking-widest">Readiness Score</span>
+                        <span id="scoreText" class="text-cyan-400 text-4xl font-black italic">0%</span>
+                    </div>
+                    <div class="w-full bg-slate-800/50 rounded-full h-2 overflow-hidden">
+                        <div id="scoreBar" class="h-full bg-gradient-to-r from-cyan-400 to-blue-500 transition-all duration-1000 ease-out" style="width:0%"></div>
+                    </div>
+                </div>
+
+                <div class="space-y-4">
+                    <div class="glass rounded-2xl p-6">
+                        <h3 class="text-cyan-400 text-[10px] font-black uppercase tracking-widest mb-3">Detected Skills</h3>
+                        <div id="keywordTags" class="flex flex-wrap gap-2"></div>
+                    </div>
+
+                    <div class="glass rounded-2xl p-6">
+                        <h3 class="text-orange-400 text-[10px] font-black uppercase tracking-widest mb-3">AI Feedback</h3>
+                        <p id="aiFeedback" class="text-slate-300 text-sm leading-relaxed"></p>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

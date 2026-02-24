@@ -1,0 +1,253 @@
+{
+  "communication": [
+    {
+      "question": "Imagine you're leading a remote team on a tight deadline and a key member misses an important meeting. How would you address this?",
+      "guidance": "This scenario evaluates your communication, leadership, and conflict resolution skills. Talk through your approach to following up, maintaining accountability, and ensuring team cohesion remotely.",
+      "keywords": [
+        "remote communication",
+        "leadership",
+        "accountability",
+        "conflict resolution",
+        "team dynamics"
+      ],
+      "ideal_answer": "I would use clear remote communication to follow up with the team member, understand any issues, and reinforce accountability. By demonstrating leadership and conflict resolution, I would ensure expectations are clear while maintaining positive team dynamics and keeping the project on track."
+    },
+    {
+      "question": "You're asked to present a technical topic to a non-technical audience. What steps would you take to ensure clarity?",
+      "guidance": "Explain how you'd adjust your communication style, simplify complex terms, and check for understanding to ensure your message lands with all stakeholders.",
+      "keywords": [
+        "communication",
+        "presentation",
+        "technical explanation",
+        "audience awareness",
+        "clarity"
+      ],
+      "ideal_answer": "I would tailor my communication and presentation style to suit the audience by simplifying technical explanation and increasing audience awareness. I would focus on clarity by using relatable examples and regularly checking understanding."
+    },
+    {
+      "question": "During a team call, two members start speaking over each other and the discussion becomes chaotic. How would you restore order and keep the conversation productive?",
+      "guidance": "Demonstrate your ability to mediate, encourage equal participation, and bring structure to discussions, especially in virtual settings.",
+      "keywords": [
+        "communication",
+        "conflict mediation",
+        "leadership",
+        "team dynamics",
+        "virtual meetings"
+      ],
+      "ideal_answer": "I would apply strong communication and leadership to pause the discussion, use conflict mediation to ensure both voices are heard, and restore productive team dynamics in the virtual meetings environment."
+    },
+    {
+      "question": "You receive vague instructions from a manager for a time-sensitive task. What do you do?",
+      "guidance": "Use this opportunity to show how you seek clarification, manage ambiguity, and ensure quality under pressure.",
+      "keywords": [
+        "clarification",
+        "communication",
+        "initiative",
+        "problem-solving",
+        "task management"
+      ],
+      "ideal_answer": "I would take initiative by seeking clarification through clear communication, applying problem-solving to manage ambiguity, and maintaining strong task management to ensure quality delivery."
+    },
+    {
+      "question": "You notice a colleague repeatedly miscommunicating important updates. How do you approach the situation?",
+      "guidance": "This scenario assesses your ability to give constructive feedback while preserving working relationships.",
+      "keywords": [
+        "feedback",
+        "interpersonal skills",
+        "communication",
+        "collaboration",
+        "professionalism"
+      ],
+      "ideal_answer": "I would provide constructive feedback using strong interpersonal skills and communication, encouraging collaboration while maintaining professionalism and preserving a positive working relationship."
+    }
+  ],
+
+  "teamwork": [
+    {
+      "question": "You're assigned to a group project with team members from different departments who have conflicting goals. How would you handle this?",
+      "guidance": "Explain how you would build consensus, clarify roles, and ensure alignment despite differing agendas.",
+      "keywords": [
+        "teamwork",
+        "cross-functional collaboration",
+        "conflict resolution",
+        "communication",
+        "goal alignment"
+      ],
+      "ideal_answer": "I would use teamwork and communication to support cross-functional collaboration, apply conflict resolution strategies, and establish clear goal alignment across departments."
+    },
+    {
+      "question": "During a project, one team member consistently misses deadlines. How do you respond?",
+      "guidance": "Focus on maintaining productivity and team morale while addressing accountability professionally.",
+      "keywords": [
+        "team dynamics",
+        "accountability",
+        "time management",
+        "peer communication",
+        "leadership"
+      ],
+      "ideal_answer": "I would use leadership and peer communication to address accountability, support time management, and maintain positive team dynamics while keeping productivity high."
+    },
+    {
+      "question": "Imagine you're joining an existing team that already has strong bonds. How would you integrate yourself effectively?",
+      "guidance": "Share strategies for observing team dynamics, adding value early, and building trust.",
+      "keywords": [
+        "team integration",
+        "trust building",
+        "observation",
+        "collaboration",
+        "adaptability"
+      ],
+      "ideal_answer": "I would focus on team integration by observing team dynamics, building trust through collaboration, and demonstrating adaptability to add value quickly."
+    },
+    {
+      "question": "Your team submits a proposal and it’s rejected. How do you handle this during your next meeting?",
+      "guidance": "Demonstrate how you process setbacks constructively, encourage resilience, and move forward as a group.",
+      "keywords": [
+        "resilience",
+        "feedback handling",
+        "team support",
+        "motivation",
+        "problem-solving"
+      ],
+      "ideal_answer": "I would demonstrate resilience through constructive feedback handling, motivate the team with strong team support, and apply problem-solving to move forward positively."
+    },
+    {
+      "question": "You and a teammate strongly disagree on how to proceed with a task. What steps do you take to resolve it?",
+      "guidance": "Illustrate how you navigate disagreements by focusing on shared goals, open discussion, and compromise.",
+      "keywords": [
+        "conflict resolution",
+        "teamwork",
+        "negotiation",
+        "collaboration",
+        "communication"
+      ],
+      "ideal_answer": "I would apply conflict resolution and negotiation through open communication and collaboration, ensuring teamwork and alignment around shared goals."
+    }
+  ],
+
+  "problem_solving": [
+    {
+      "question": "You discover a critical error in a report an hour before it's due. What do you do?",
+      "guidance": "Highlight your ability to stay calm under pressure, prioritize effectively, and communicate transparently with stakeholders.",
+      "keywords": [
+        "critical thinking",
+        "decision-making",
+        "crisis management",
+        "prioritization",
+        "communication"
+      ],
+      "ideal_answer": "I would apply critical thinking and decision-making under pressure, use crisis management and prioritization strategies, and maintain transparent communication with stakeholders."
+    },
+    {
+      "question": "You're working on a task and realize you lack the necessary information. How do you proceed?",
+      "guidance": "Describe how you identify gaps, seek support, and ensure progress without compromising quality.",
+      "keywords": [
+        "initiative",
+        "problem-solving",
+        "information gathering",
+        "resourcefulness",
+        "ownership"
+      ],
+      "ideal_answer": "I would demonstrate initiative by gathering information, applying problem-solving and resourcefulness, and taking ownership to ensure high-quality outcomes."
+    },
+    {
+      "question": "A customer approaches you with a complex issue that you’ve never dealt with before. How do you handle it?",
+      "guidance": "Walk through your process for understanding unfamiliar problems, escalating appropriately, and keeping the customer informed.",
+      "keywords": [
+        "customer service",
+        "problem-solving",
+        "communication",
+        "escalation",
+        "resolution"
+      ],
+      "ideal_answer": "I would apply customer service principles using clear communication, problem-solving strategies, appropriate escalation, and focused resolution."
+    },
+    {
+      "question": "You’re leading a project and suddenly lose access to a key system. What’s your plan?",
+      "guidance": "Explain your risk management, contingency planning, and how you'd coordinate the team under uncertainty.",
+      "keywords": [
+        "contingency planning",
+        "leadership",
+        "risk management",
+        "adaptability",
+        "coordination"
+      ],
+      "ideal_answer": "I would demonstrate leadership through contingency planning, apply risk management, show adaptability, and ensure strong coordination across the team."
+    },
+    {
+      "question": "You suggest an idea during a meeting, and it gets dismissed without consideration. What do you do?",
+      "guidance": "Share how you process rejection constructively, assess feedback, and decide whether to revisit or refine the idea.",
+      "keywords": [
+        "resilience",
+        "feedback processing",
+        "assertiveness",
+        "professionalism",
+        "innovation"
+      ],
+      "ideal_answer": "I would demonstrate resilience and professionalism by processing feedback constructively, using assertiveness where appropriate, and refining the idea to support innovation."
+    }
+  ],
+
+  "adaptability": [
+    {
+      "question": "You're moved to a new team with a completely different workflow and culture. How do you adjust?",
+      "guidance": "Show how you assess new environments, observe cultural norms, and adapt your approach to integrate smoothly.",
+      "keywords": [
+        "adaptability",
+        "team dynamics",
+        "learning agility",
+        "cultural awareness",
+        "flexibility"
+      ],
+      "ideal_answer": "I demonstrate adaptability by observing team dynamics, applying learning agility, respecting cultural awareness, and remaining flexible to integrate effectively."
+    },
+    {
+      "question": "A major software update changes your daily workflow overnight. What’s your response?",
+      "guidance": "Explain how you learn new systems quickly, adapt processes, and support others during transitions.",
+      "keywords": [
+        "tech adaptability",
+        "learning",
+        "support",
+        "process improvement",
+        "change management"
+      ],
+      "ideal_answer": "I apply tech adaptability by learning quickly, supporting colleagues, driving process improvement, and contributing to smooth change management."
+    },
+    {
+      "question": "You’re halfway through a task when your manager changes the priorities. What do you do?",
+      "guidance": "Demonstrate flexibility, your ability to re-align with new goals, and communicate shifts effectively.",
+      "keywords": [
+        "adaptability",
+        "task switching",
+        "prioritization",
+        "communication",
+        "responsiveness"
+      ],
+      "ideal_answer": "I demonstrate adaptability through task switching and prioritization, using clear communication and responsiveness to realign with new goals efficiently."
+    },
+    {
+      "question": "You’re sent to support another branch of the company for two weeks with little notice. How do you handle it?",
+      "guidance": "Share how you prepare quickly, adjust to unfamiliar environments, and maintain productivity.",
+      "keywords": [
+        "travel readiness",
+        "adaptability",
+        "quick learning",
+        "resilience",
+        "productivity"
+      ],
+      "ideal_answer": "I demonstrate travel readiness through adaptability and quick learning, showing resilience while maintaining strong productivity."
+    },
+    {
+      "question": "You’re used to detailed instructions, but your new supervisor prefers minimal guidance. How do you adapt?",
+      "guidance": "Show how you transition from instruction-based to autonomous work styles and build trust with your manager.",
+      "keywords": [
+        "work styles",
+        "autonomy",
+        "adaptability",
+        "communication",
+        "independence"
+      ],
+      "ideal_answer": "I adapt my work styles by developing autonomy and independence, using communication to build trust and demonstrate adaptability."
+    }
+  ]
+}
